@@ -1,0 +1,14 @@
+C:\Users\ferha\source\repos\DatetimePractice\DatetimePractice\bin\Debug\netcoreapp3.1\DatetimePractice.exe
+C:\Users\ferha\source\repos\DatetimePractice\DatetimePractice\bin\Debug\netcoreapp3.1\DatetimePractice.deps.json
+C:\Users\ferha\source\repos\DatetimePractice\DatetimePractice\bin\Debug\netcoreapp3.1\DatetimePractice.runtimeconfig.json
+C:\Users\ferha\source\repos\DatetimePractice\DatetimePractice\bin\Debug\netcoreapp3.1\DatetimePractice.runtimeconfig.dev.json
+C:\Users\ferha\source\repos\DatetimePractice\DatetimePractice\bin\Debug\netcoreapp3.1\DatetimePractice.dll
+C:\Users\ferha\source\repos\DatetimePractice\DatetimePractice\bin\Debug\netcoreapp3.1\DatetimePractice.pdb
+C:\Users\ferha\source\repos\DatetimePractice\DatetimePractice\obj\Debug\netcoreapp3.1\DatetimePractice.csproj.AssemblyReference.cache
+C:\Users\ferha\source\repos\DatetimePractice\DatetimePractice\obj\Debug\netcoreapp3.1\DatetimePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferha\source\repos\DatetimePractice\DatetimePractice\obj\Debug\netcoreapp3.1\DatetimePractice.AssemblyInfoInputs.cache
+C:\Users\ferha\source\repos\DatetimePractice\DatetimePractice\obj\Debug\netcoreapp3.1\DatetimePractice.AssemblyInfo.cs
+C:\Users\ferha\source\repos\DatetimePractice\DatetimePractice\obj\Debug\netcoreapp3.1\DatetimePractice.csproj.CoreCompileInputs.cache
+C:\Users\ferha\source\repos\DatetimePractice\DatetimePractice\obj\Debug\netcoreapp3.1\DatetimePractice.dll
+C:\Users\ferha\source\repos\DatetimePractice\DatetimePractice\obj\Debug\netcoreapp3.1\DatetimePractice.pdb
+C:\Users\ferha\source\repos\DatetimePractice\DatetimePractice\obj\Debug\netcoreapp3.1\DatetimePractice.genruntimeconfig.cache
